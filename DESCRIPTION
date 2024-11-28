@@ -1,10 +1,11 @@
 Package: TempConvAllSR
-Title: What the Package Does (One Line, Title Case)
+Title: Conversion Between Three Temperature Scales
 Version: 0.0.0.9000
-Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Author@R: Sams Rashid
+  
+Description: This package converts between three temparature scales. Also, F_to_C convert degrees Fahrenheit temperatures to degrees Celsius, 
+F_to_K convert degrees Fahrenheit temperatures to Kelvin, C_to_F convert degrees Celsius temperatures to degrees Fahrenheit, C_to_K convert degrees 
+Celsius temperatures to Kelvin, K_to_F convert Kelvin temperatures to degrees Fahrenheit and K_to_C convert Kelvin temperatures to degrees Celsius.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
